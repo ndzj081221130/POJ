@@ -1,0 +1,1 @@
+package test;  public class Main {	public static void outText(String filename, String outfile) {}	/**	 * @param args	 */	public static void main(String[] args) {		// TODO Auto-generated method stub		Main.outText("weiboContent_test", "out_text.txt");	}}
